@@ -1,5 +1,5 @@
 # Stanford-ML
-My solution codes for the CS229 course offered at Stanford by Andrew Ng
+My solution codes for the programming assignments (PS4 not included) of the CS229 course offered at Stanford by Andrew Ng
 The codes are all written in the Python language(2.7).
 
 To run the file type in 
